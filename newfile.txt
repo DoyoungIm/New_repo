@@ -1,3 +1,4 @@
 git test text
 1st modified
 2nd modified
+branch2
